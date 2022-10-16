@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03ad27245386c2644b815afa5797d5f0, type: 3}
+  m_Name: BalanceData
+  m_EditorClassIdentifier: 
+  MoneyMaxCap: 100
+  BaseRewardForLevel: 100
+  MovingSpeed: 1
+  RotatingSmoothSpeed: 1
+  RotatingStepSpeed: 0.1
+  PickUpTime: 0.3
+  RotatingDegree: 30
+  PermissibleErrorInAccuracy: 1
+  ThresholdForPassingLevel: 99
